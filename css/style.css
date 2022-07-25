@@ -24,11 +24,11 @@
   justify-content: center;
   align-items: center;
 }
-[class=🐕] * {
+[class=dogstyle] * {
   position: absolute;
   will-change: transform;
 }
-[class=🐕]:before {
+[class=dogstyle]:before {
   content: "";
   position: absolute;
   bottom: 13.3333333333%;
