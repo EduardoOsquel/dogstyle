@@ -16,7 +16,7 @@
           animation-timing-function: var(--easing) !important;
 }
 
-[class=🐕] {
+[class=dogstyle] {
   z-index: 1;
   height: 300px;
   width: 300px;
